@@ -1,117 +1,107 @@
-# Sales-Shipping-Performance-Analysis
-An interactive Excel dashboard analyzing sales performance, customer trends, and shipping efficiency
-
+# Sales & Shipping Performance Analysis
 
 <p align="center">
   <img src="Sales%20%26%20Shipping%20Performance%20Analysis%20screenshot.png" width="100%">
 </p>
 
-# Sales & Shipping Performance Analysis
+## 1. Project Overview
 
-## Project Overview
+An interactive Excel dashboard analyzing sales and shipping performance across the United States from 2014 to 2017.
 
-An interactive Excel dashboard designed to analyze sales performance and shipping operations from 2014 to 2017.
+The project evaluates sales trends, product categories, customer performance, salesperson contributions, and shipping efficiency.
 
-The project provides insights into sales trends, product categories, customer performance, salesperson contributions, and shipping costs across different U.S. states.
+## 2. Project Objectives
 
-## Project Objectives
+- Analyze sales performance and quarterly trends.
+- Evaluate product categories and salesperson contributions.
+- Identify top-performing customers and states.
+- Examine shipping costs and delivery times.
+- Identify areas for operational improvement.
 
-- Analyze sales performance across different product categories.
-- Identify quarterly sales trends from 2014 to 2017.
-- Evaluate salesperson performance.
-- Identify the top 4 customers by sales.
-- Compare sales performance across U.S. states.
-- Analyze average shipping days and shipping costs.
-- Evaluate shipping methods and packaging costs.
+## 3. Business Insights
 
-## Dashboard Features
+- **Total Sales:** Reached approximately $14.74 million during the analysis period.
+- **Product Categories:** Bikes generated approximately $10.23 million, representing 69.4% of total sales, making them the leading category.
+- **Salesperson Performance:** Bob recorded the highest total sales at approximately $5.02 million.
+- **Geographic Performance:** New Mexico recorded the highest state sales at approximately $573,760, followed by Georgia and Florida.
+- **Shipping Efficiency:** Average shipping time was approximately 2.03 days. Low-priority orders took significantly longer, averaging around 4 days.
+- **Shipping Costs:** Large packaging options recorded higher average shipping costs, particularly for delivery truck shipments.
 
-The interactive dashboard includes:
+## 4. Tools & Skills
 
-- **Product Trend:** Quarterly sales performance by product category.
-- **Top 4 Customers:** Identification of the highest-performing customers.
-- **Sales by Category & Salesperson:** Comparison of sales contributions.
-- **Sales by State:** Geographic analysis of sales performance.
-- **Shipping Analysis:** Average shipping days and shipping costs by shipping mode and packaging type.
-
-## Tools & Skills
-
+**Tools:**
 - Microsoft Excel
-- Pivot Tables
-- Pivot Charts
+- Pivot Tables & Pivot Charts
 - Interactive Slicers
+
+**Skills:**
 - Data Analysis
 - Data Visualization
-- Sales Analysis
-- Shipping Performance Analysis
+- Sales Performance Analysis
+- Customer Analysis
+- Shipping Cost Analysis
+- Business Insights
 
-## Project Structure
+## 5. Recommendations
+
+- **Product Strategy:** Maintain focus on the Bikes category while exploring opportunities to grow other product categories.
+- **Shipping Efficiency:** Review low-priority order processing to reduce delivery delays.
+- **Cost Optimization:** Evaluate packaging choices and shipping methods to identify opportunities to reduce costs.
+- **Regional Performance:** Investigate successful sales patterns in high-performing states to identify opportunities in other regions.
+
+## 6. Project Structure
 
 ```text
 Sales-Shipping-Performance-Analysis/
 │
 ├── README.md
-│
-├── Dashboard/
-│   └── Sales_Shipping_Dashboard.xlsx
-│
-├── Screenshots/
-│   └── Dashboard.png
-│
-└── Analysis/
-    └── Key_Insights.md
+├── Sales_Shipping_Dashboard.xlsx
+└── Sales & Shipping Performance Analysis screenshot.png
 ```
-
-## Key Skills Demonstrated
-
-This project demonstrates the ability to organize and analyze business data, build interactive dashboards, compare business performance, and communicate insights through data visualization.
 
 ---
 
 # تحليل أداء المبيعات والشحن
 
-## نظرة عامة على المشروع
+## 1. نظرة عامة على المشروع
 
-مشروع لتحليل أداء المبيعات وعمليات الشحن باستخدام Microsoft Excel، من خلال إنشاء لوحة معلومات تفاعلية تغطي الفترة من 2014 إلى 2017.
+لوحة معلومات تفاعلية باستخدام Excel لتحليل أداء المبيعات وعمليات الشحن في الولايات المتحدة خلال الفترة من 2014 إلى 2017.
 
-يهدف المشروع إلى تقديم رؤى حول اتجاهات المبيعات وأداء المنتجات والعملاء وموظفي المبيعات، بالإضافة إلى تكاليف الشحن وكفاءته في مختلف الولايات الأمريكية.
+## 2. أهداف المشروع
 
-## أهداف المشروع
+- تحليل أداء المبيعات واتجاهاتها ربع السنوية.
+- تقييم فئات المنتجات ومساهمات موظفي المبيعات.
+- تحديد أفضل العملاء والولايات من حيث المبيعات.
+- تحليل تكاليف الشحن وأوقات التسليم.
+- تحديد فرص تحسين الأداء التشغيلي.
 
-- تحليل أداء المبيعات حسب فئات المنتجات.
-- تحديد اتجاهات المبيعات ربع السنوية من 2014 إلى 2017.
-- تقييم أداء موظفي المبيعات.
-- تحديد أفضل 4 عملاء من حيث المبيعات.
-- مقارنة أداء المبيعات بين الولايات الأمريكية.
-- تحليل متوسط أيام الشحن وتكاليفه.
-- تقييم طرق الشحن وتكاليف التغليف.
+## 3. أهم النتائج والتحليلات
 
-## مكونات لوحة المعلومات
+- **إجمالي المبيعات:** بلغ نحو 14.74 مليون دولار خلال فترة التحليل.
+- **فئات المنتجات:** تصدرت الدراجات المبيعات بإجمالي 10.23 مليون دولار، ما يمثل 69.4% من إجمالي المبيعات.
+- **أداء الموظفين:** حقق Bob أعلى إجمالي مبيعات بقيمة تقارب 5.02 مليون دولار.
+- **الأداء الجغرافي:** سجلت ولاية New Mexico أعلى مبيعات بنحو 573,760 دولارًا، تلتها Georgia وFlorida.
+- **كفاءة الشحن:** بلغ متوسط مدة الشحن 2.03 يوم، بينما استغرقت الطلبات ذات الأولوية المنخفضة نحو 4 أيام.
+- **تكاليف الشحن:** سجلت خيارات التغليف الكبيرة متوسط تكاليف أعلى، خصوصًا مع الشحن بواسطة شاحنات التوصيل.
 
-تتضمن لوحة المعلومات التفاعلية:
+## 4. الأدوات والمهارات
 
-- **اتجاهات المنتجات:** تحليل المبيعات ربع السنوية حسب فئة المنتج.
-- **أفضل 4 عملاء:** تحديد العملاء الأعلى من حيث المبيعات.
-- **المبيعات حسب الفئة والموظف:** مقارنة مساهمة موظفي المبيعات.
-- **المبيعات حسب الولاية:** تحليل التوزيع الجغرافي للمبيعات.
-- **تحليل الشحن:** متوسط أيام الشحن وتكاليفه حسب طريقة الشحن ونوع التغليف.
-
-## الأدوات والمهارات
-
+**الأدوات:**
 - Microsoft Excel
-- Pivot Tables
-- Pivot Charts
+- Pivot Tables & Pivot Charts
 - Interactive Slicers
+
+**المهارات:**
 - تحليل البيانات
 - تصور البيانات
-- تحليل المبيعات
-- تحليل أداء الشحن
+- تحليل أداء المبيعات
+- تحليل العملاء
+- تحليل تكاليف الشحن
+- استخلاص الرؤى التجارية
 
-## المهارات التي يعكسها المشروع
+## 5. التوصيات التجارية
 
-يعكس المشروع القدرة على تنظيم البيانات وتحليلها، وإنشاء لوحات معلومات تفاعلية، ومقارنة أداء الأعمال، وعرض النتائج من خلال التصور البصري للبيانات.
-
-
-
-
-
+- **استراتيجية المنتجات:** الحفاظ على التركيز على فئة الدراجات مع استكشاف فرص نمو الفئات الأخرى.
+- **كفاءة الشحن:** مراجعة إجراءات معالجة الطلبات ذات الأولوية المنخفضة لتقليل التأخير.
+- **تحسين التكاليف:** تقييم خيارات التغليف وطرق الشحن لتحديد فرص خفض التكاليف.
+- **الأداء الجغرافي:** دراسة عوامل نجاح الولايات الأعلى مبيعًا والاستفادة منها في المناطق الأخرى.
